@@ -1,0 +1,11 @@
+name: EcoPower
+version: UNOFFICIAL
+main: io.github.thebusybiscuit.ecopower.EcoPowerPlugin
+api-version: 1.21
+authors:
+  - TheBusyBiscuit
+  - SirXradar
+description: A Slimefun Addon that adds high-tier generators to power your setups. Forked for Slimefun4 Experimental.
+website: https://github.com/SirXradar
+depend:
+  - Slimefun

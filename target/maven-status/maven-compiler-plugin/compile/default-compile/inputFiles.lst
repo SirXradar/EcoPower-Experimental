@@ -1,0 +1,9 @@
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/EcoPowerPlugin.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/HighEnergySolarGenerator.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/LightningReceptor.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/LunarGenerator.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/SteamTurbine.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/SteamTurbineMultiblock.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/WindTurbine.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/generators/WindTurbineMultiblock.java
+/home/killo/SlimefunExpremential/EcoPower/src/main/java/io/github/thebusybiscuit/ecopower/items/SteelRotor.java
