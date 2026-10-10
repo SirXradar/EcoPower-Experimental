@@ -6,9 +6,6 @@
 <a href="https://github.com/SirXradar/EcoPower-Experimental/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/SirXradar/EcoPower-Experimental?label=License&style=for-the-badge&color=blue)">
 </a>
-<a href="https://www.spigotmc.org/resources/ecopower-experimental.12345/">
-  <img src="https://img.shields.io/badge/SpigotMC-Download-ffc800?style=for-the-badge&logo=java)" alt="SpigotMC">
-</a>
 
 > **EcoPower** is a [Slimefun4](https://blob.build/project/Slimefun4/Experimental) addon that adds high-tier generators to power your setups. This fork has been updated for **Slimefun4 Experimental (4.9-UNOFFICIAL)** by **SirXradar**.
 
@@ -44,15 +41,6 @@
 2. Place it in your server's **`/plugins/`** folder.
 3. Ensure **Slimefun4 Experimental** is also installed.
 4. Start or restart your server.
-
----
-
-## Usage
-
-Place any generator in the world and connect it to an energy network. Tiered machines require progressively advanced materials.
-
-### Steam Turbine (Example)
-![Steam Turbine Preview](https://via.placeholder.com/150x150.png/333333/ffffff?text=Steam+Turbine)
 
 ---
 
